@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Biancoenero';
+    src: local('Biancoenero Regular'), local('BiancoeneroRegular'),
+        url('BiancoeneroRegular.woff2') format('woff2'),
+        url('BiancoeneroRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Biancoenero';
+    src: local('Biancoenero Bold'), local('BiancoeneroBold'),
+        url('BiancoeneroBold.woff2') format('woff2'),
+        url('BiancoeneroBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Biancoenero';
+    src: local('Biancoenero Italic'), local('BiancoeneroItalic'),
+        url('BiancoeneroItalic.woff2') format('woff2'),
+        url('BiancoeneroItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'biancoenero';
+    src: local('Biancoenero BoldItalic'), local('BiancoeneroBoldItalic'),
+        url('BiancoeneroBoldItalic.woff2') format('woff2'),
+        url('BiancoeneroBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
